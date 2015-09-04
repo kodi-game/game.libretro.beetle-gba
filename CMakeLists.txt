@@ -7,7 +7,7 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 enable_language(CXX)
 
 find_package(kodi REQUIRED)
-find_package(beetle-gba REQUIRED)
+find_package(libretro-beetle-gba REQUIRED)
 
 set(DEPLIBS meteor)
 set(BEETLE_GBA_CUSTOM_BINARY ${BEETLE_GBA_LIB}

@@ -44,4 +44,4 @@ install(FILES ${PROJECT_SOURCE_DIR}/mednafen_gba_libretro${CMAKE_SHARED_LIBRARY_
         DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
 
 # write the beetle-gba-config.cmake script
-file(WRITE ${CMAKE_INSTALL_PREFIX}/beetle-gba-config.cmake "set(BEETLE_GBA_LIB ${CMAKE_INSTALL_PREFIX}/lib/mednafen_gba_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")
+file(WRITE ${CMAKE_INSTALL_PREFIX}/libretro-beetle-gba-config.cmake "set(BEETLE_GBA_LIB ${CMAKE_INSTALL_PREFIX}/lib/mednafen_gba_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")
