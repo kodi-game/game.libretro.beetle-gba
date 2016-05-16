@@ -8,11 +8,7 @@
 		<import addon="game.controller.gba" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="libgame.libretro.beetle-gba.so"
-                   library_linux="game.libretro.beetle-gba.so"
-                   library_osx="game.libretro.beetle-gba.dylib"
-                   library_windx="game.libretro.beetle-gba.dll"
-                   library_wingl="game.libretro.beetla-gba.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>GBA</platforms>
 		<extensions>gba|agb|bin</extensions>
 		<supports_vfs>false</supports_vfs>
@@ -25,7 +21,7 @@
 Supported files: .gba, .agb, .bin
 
 License: GPLv2</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 		<nofanart>true</nofanart>
 	</extension>
 </addon>
