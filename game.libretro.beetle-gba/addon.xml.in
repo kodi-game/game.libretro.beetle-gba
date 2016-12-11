@@ -17,12 +17,10 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Game Boy Advance (Mednafen VBA) v0.9.36</summary>
+		<summary lang="en">Game Boy Advance (Mednafen VBA) v0.9.36 0fadba3</summary>
 		<description>Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.
 
-Supported files: .gba, .agb, .bin
-
-License: GPLv2</description>
+Supported files: .gba, .agb, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
