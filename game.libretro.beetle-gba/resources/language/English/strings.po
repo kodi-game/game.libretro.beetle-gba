@@ -21,6 +21,10 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "HLE bios emulation"
+msgid "HLE bios emulation (Restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Save method (Restart)"
 msgstr ""
 
