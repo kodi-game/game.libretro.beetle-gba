@@ -11,7 +11,7 @@
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>GBA</platforms>
 		<extensions>gba|agb|bin</extensions>
-		<supports_vfs>true</supports_vfs>
+		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
