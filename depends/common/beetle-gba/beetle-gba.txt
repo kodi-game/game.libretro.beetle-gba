@@ -1,1 +1,1 @@
-beetle-gba https://github.com/libretro/beetle-gba-libretro master
+beetle-gba https://github.com/libretro/beetle-gba-libretro/archive/0ca99bf167f8a3a31971feed0a0266861ce6ce54.zip
