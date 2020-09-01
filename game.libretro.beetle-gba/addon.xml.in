@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-gba"
 		name="Nintendo - Game Boy Advance (Beetle GBA)"
-		version="0.9.36.6"
-		provider-name="Libretro">
+		version="0.9.36.7"
+		provider-name="Forgotten, Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.gba" version="1.0.0"/>
