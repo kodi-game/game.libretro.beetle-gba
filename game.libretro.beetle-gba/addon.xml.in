@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Beetle GBA) v0.9.36</summary>
-		<description lang="en_GB">Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.</description>
+		<description lang="en_GB">Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.[CR][CR]Supported files: .gba, .agb, .bin</description>
 	</extension>
 </addon>
