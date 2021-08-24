@@ -15,8 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .gba, .agb, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.beetle-gba</source>
@@ -27,8 +25,6 @@ Supported files: .gba, .agb, .bin</description>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Beetle GBA) v0.9.36</summary>
-		<description lang="en_GB">Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.
-
-Supported files: .gba, .agb, .bin</description>
+		<description lang="en_GB">Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.[CR][CR]Supported files: .gba, .agb, .bin</description>
 	</extension>
 </addon>
