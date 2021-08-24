@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (Beetle GBA) v0.9.36"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.
+
+Supported files: .gba, .agb, .bin"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (Beetle GBA) v0.9.36"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project.
+
+Supported files: .gba, .agb, .bin"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
