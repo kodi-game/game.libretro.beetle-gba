@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-gba"
 		name="Nintendo - Game Boy Advance (Beetle GBA)"
-		version="0.9.36.14"
+		version="0.9.36.15"
 		provider-name="Forgotten, Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>gba|agb|bin</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
