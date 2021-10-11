@@ -22,7 +22,7 @@ msgid "Nintendo - Game Boy Advance (Beetle GBA) v0.9.36"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Beetle GBA is a fork of Mednafen&#39;s GBA core for the libretro project."
+msgid "Beetle GBA is a fork of Mednafen's GBA core for the libretro project."
 msgstr "비틀 GBA는 libretro 프로젝트를 위한 Mednafen의 GBA 코어 포크입니다."
 
 msgctxt "#30000"
