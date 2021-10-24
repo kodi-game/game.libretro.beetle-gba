@@ -5,7 +5,7 @@
 
 ### Description
 
-Beetle GBA is a fork of Mednafen's GBA core for the libretro project.
+Beetle GBA is a fork of Mednafen&apos;s GBA core for the libretro project.
 
 ### License
 
