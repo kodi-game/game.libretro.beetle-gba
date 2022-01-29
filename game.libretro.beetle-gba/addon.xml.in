@@ -27,7 +27,7 @@
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Beetle GBA) v0.9.36</summary>
 		<description lang="da_DK">Beetle GBA er en fork af Mednafens GBA-kerne til libretro-projektet.</description>
-		<description lang="en_GB">Beetle GBA is a fork of Mednafen&apos;s GBA core for the libretro project.</description>
+		<description lang="en_GB">Beetle GBA is a fork of Mednafen&#x27;s GBA core for the libretro project.</description>
 		<description lang="es_ES">Beetle GBA es un fork del core de GBA de Mednafen para el proyecto libretro.</description>
 		<description lang="ko_KR">비틀 GBA는 libretro 프로젝트를 위한 Mednafen의 GBA 코어 포크입니다.</description>
 		<description lang="zh_CN">Beetle GBA 是 Mednafen 用于 libretro 项目的 GBA 核心的一个分支。</description>
