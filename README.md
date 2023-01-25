@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-gba/resources/icon.png)
+![Nintendo - Game Boy Advance (Beetle GBA) icon](game.libretro.beetle-gba/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.beetle-gba/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.beetle-gba/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.beetle-gba/resources/screenshot-03.jpg)
+![Nintendo - Game Boy Advance (Beetle GBA) screenshot](game.libretro.beetle-gba/resources/screenshot-01.jpg)
+![Nintendo - Game Boy Advance (Beetle GBA) screenshot](game.libretro.beetle-gba/resources/screenshot-02.jpg)
+![Nintendo - Game Boy Advance (Beetle GBA) screenshot](game.libretro.beetle-gba/resources/screenshot-03.jpg)
