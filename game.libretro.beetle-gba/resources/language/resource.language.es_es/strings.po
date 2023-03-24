@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.1\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Game Boy Advance (Beetle GBA) v0.9.36"
+msgid "Nintendo - Game Boy Advance (Beetle GBA)"
 msgstr ""
 
 msgctxt "Addon Description"
