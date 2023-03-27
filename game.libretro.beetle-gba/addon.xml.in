@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Beetle GBA)</summary>
+		<summary lang="es_ES">Nintendo - Game Boy Advance (Beetle GBA)</summary>
 		<description lang="da_DK">Beetle GBA er en fork af Mednafens GBA-kerne til libretro-projektet.</description>
 		<description lang="de_DE">Beetle GBA ist ein Fork von Mednafens GBA-Core für das libretro-Projekt.</description>
 		<description lang="en_GB">Beetle GBA is a fork of Mednafen&apos;s GBA core for the libretro project.</description>
