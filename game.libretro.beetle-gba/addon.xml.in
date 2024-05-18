@@ -37,6 +37,7 @@
 		<description lang="es_ES">Beetle GBA es una bifurcación del núcleo GBA de Mednafen para el proyecto libretro.</description>
 		<description lang="it_IT">Beetle GBA è un fork del core GBA di Mednafen per il progetto libretro.</description>
 		<description lang="ko_KR">비틀 GBA는 libretro 프로젝트를 위한 Mednafen의 GBA 코어 포크입니다.</description>
+		<description lang="sl_SI">Beetle GBA je razcep Mednafenovega jedra GBA za projekt libretro.</description>
 		<description lang="zh_CN">Beetle GBA 是 Mednafen 用于 libretro 项目的 GBA 核心的一个分支。</description>
 	</extension>
 </addon>
