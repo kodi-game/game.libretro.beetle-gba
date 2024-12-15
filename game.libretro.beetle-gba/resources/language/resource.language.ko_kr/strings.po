@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle GBA is a fork of Mednafen's GBA core for the libretro project."
 msgstr "비틀 GBA는 libretro 프로젝트를 위한 Mednafen의 GBA 코어 포크입니다."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "설정"
-
 msgctxt "#30001"
 msgid "HLE bios emulation (Restart)"
 msgstr "HLE 바이오스 에뮬레이션(다시 시작)"
@@ -36,3 +32,7 @@ msgstr "HLE 바이오스 에뮬레이션(다시 시작)"
 msgctxt "#30002"
 msgid "Save method (Restart)"
 msgstr "저장 방법(다시 시작)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "설정"

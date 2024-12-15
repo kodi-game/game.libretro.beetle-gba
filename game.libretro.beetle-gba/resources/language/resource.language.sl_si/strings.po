@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle GBA is a fork of Mednafen's GBA core for the libretro project."
 msgstr "Beetle GBA je razcep Mednafenovega jedra GBA za projekt libretro."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "HLE bios emulation (Restart)"
 msgstr "HLE bios emulacija (ponovni zagon)"
@@ -36,3 +32,7 @@ msgstr "HLE bios emulacija (ponovni zagon)"
 msgctxt "#30002"
 msgid "Save method (Restart)"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
