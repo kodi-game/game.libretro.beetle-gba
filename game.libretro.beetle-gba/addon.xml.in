@@ -28,6 +28,7 @@
 		<summary lang="da_DK">Nintendo - Game Boy Advance (Beetle GBA)</summary>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Beetle GBA)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy Advance (Beetle GBA)</summary>
+		<summary lang="ga">Nintendo - Game Boy Advance (Beetle GBA)</summary>
 		<summary lang="it_IT">Nintendo - Game Boy Advance (Beetle GBA)</summary>
 		<summary lang="ko_KR">닌텐도 - 게임 보이 어드밴스(Beetle GBA)</summary>
 		<summary lang="sv_SE">Nintendo - Game Boy Advance (Beetle GBA)</summary>
@@ -36,6 +37,7 @@
 		<description lang="de_DE">Beetle GBA ist ein Fork von Mednafens GBA-Core für das libretro-Projekt.</description>
 		<description lang="en_GB">Beetle GBA is a fork of Mednafen&apos;s GBA core for the libretro project.</description>
 		<description lang="es_ES">Beetle GBA es una bifurcación del núcleo GBA de Mednafen para el proyecto libretro.</description>
+		<description lang="ga">Is forc de chroílár GBA Mednafen don tionscadal libretro é Beetle GBA.</description>
 		<description lang="it_IT">Beetle GBA è un fork del core GBA di Mednafen per il progetto libretro.</description>
 		<description lang="ko_KR">비틀 GBA는 libretro 프로젝트를 위한 Mednafen의 GBA 코어 포크입니다.</description>
 		<description lang="sl_SI">Beetle GBA je razcep Mednafenovega jedra GBA za projekt libretro.</description>
