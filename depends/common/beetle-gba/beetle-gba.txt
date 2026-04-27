@@ -1,1 +1,1 @@
-beetle-gba https://github.com/libretro/beetle-gba-libretro/archive/6cee80685f735ea6c2373db2622a1f1ee9f39d39.tar.gz
+beetle-gba https://github.com/libretro/beetle-gba-libretro/archive/145d4884ad246e3c16765f6d69decb2a4359b6ae.tar.gz
